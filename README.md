@@ -1,2 +1,2 @@
-# community
-Horatio community content
+# Horatio Community
+Welcome to the Horatio community!
